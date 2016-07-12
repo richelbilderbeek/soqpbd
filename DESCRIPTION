@@ -1,0 +1,13 @@
+Package: soqpbd
+Type: Package
+Title: Tests if PBD can built on Travis
+Version: 1.0
+Date: 2016-07-12
+Author: Richel Bilderbeek
+Maintainer: Richel Bilderbeek <richel@richelbilderbeek.nl>
+Description: The PBD package is put in a folder of a GitHub.
+  Usually, a package is placed in the root folder of a GitHub.
+  With devtools::install_packages, this is no problem.
+  This package checks if Travis CI can handle this.
+License: GPL-3
+Suggests: testthat
