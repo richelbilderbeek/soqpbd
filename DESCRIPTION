@@ -11,5 +11,6 @@ Description: The PBD package is put in a folder of a GitHub.
     This package checks if Travis CI can handle this.
 License: GPL-3
 Suggests:
-    testthat
+    testthat,
+    PBD
 RoxygenNote: 5.0.1
