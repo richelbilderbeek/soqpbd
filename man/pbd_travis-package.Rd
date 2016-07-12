@@ -1,25 +1,25 @@
-\name{pbd_travis-package}
-\alias{pbd_travis-package}
-\alias{pbd_travis}
+\name{soqpbd-package}
+\alias{soqpbd-package}
+\alias{soqpbd}
 \docType{package}
 \title{
-\packageTitle{pbd_travis}
+\packageTitle{soqpbd}
 }
 \description{
-\packageDescription{pbd_travis}
+\packageDescription{soqpbd}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{pbd_travis}
-\packageIndices{pbd_travis}
+\packageDESCRIPTION{soqpbd}
+\packageIndices{soqpbd}
 ~~ An overview of how to use the package, including the most ~~
 ~~ important functions ~~
 }
 \author{
-\packageAuthor{pbd_travis}
+\packageAuthor{soqpbd}
 
-Maintainer: \packageMaintainer{pbd_travis}
+Maintainer: \packageMaintainer{soqpbd}
 }
 \references{
 ~~ Literature or other references for background information ~~

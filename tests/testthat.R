@@ -1,4 +1,4 @@
 library(testthat)
-library(pbd_travis)
+library(soqpbd)
 
-test_check("pbd_travis")
+test_check("soqpbd")
