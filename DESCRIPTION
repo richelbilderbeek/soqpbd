@@ -9,7 +9,7 @@ Description: The PBD package is put in a folder of a GitHub.
     Usually, a package is placed in the root folder of a GitHub.
     With devtools::install_packages, this is no problem.
     This package checks if Travis CI can handle this.
-License: GPL-3
+License: file LICENSE
 Suggests:
     testthat,
     PBD
