@@ -13,4 +13,6 @@ License: file LICENSE
 Suggests:
     testthat,
     PBD
+Remotes:
+    rsetienne/PBD/PBD
 RoxygenNote: 5.0.1
